@@ -1,0 +1,12 @@
+**.m
+**/__pycache__/*
+**.pyc
+**.pyo
+**.log
+**.retry
+**.DS_Store
+.idea/
+**.db
+.mypy_cache/
+setting.py
+
