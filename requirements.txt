@@ -6,7 +6,7 @@ Cython==0.29.3
 Django==2.1.5
 django-filter==2.1.0
 django-filters==0.2.1
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 ephem==3.7.6.0
 fbprophet==0.4.post2
 gevent==1.4.0
